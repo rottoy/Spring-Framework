@@ -4,37 +4,16 @@ public class TrackCoach implements Coach {
 
 	private FortuneService fortuneService;
 
-	public void setEmailAddress(String emailAddress) {
-		System.out.println("CricketCoach : inside setter method - setEmailAddress");
-		this.emailAddress = emailAddress;
-	}
-
-	public void setTeam(String team) {
-		System.out.println("CricketCoach : inside setter method - setTeam");
-		this.team = team;
-	}
-
-	public String getEmailAddress() {
-		return emailAddress;
-	}
-
-	public String getTeam() {
-		return team;
-	}
-
 	//add new fields for emailAddress and team
 	private String emailAddress;
 	private String team;
 
 
 	//create a no-arg constructor
-	public TrackCoach(){
-		System.out.println("CricketCoach : inside no-arg constructor");
-	}
-	public void setFortuneService(FortuneService fortuneService) {
-		System.out.println("CricketCoach : inside setter method - setFortuneService");
+	public TrackCoach(FortuneService fortuneService){
 		this.fortuneService = fortuneService;
 	}
+
 	@Override
 	public String getDailyWorkout() {
 		return "Run a hard 5k";
@@ -42,7 +21,18 @@ public class TrackCoach implements Coach {
 
 	@Override
 	public String getDailyFortune() {
-		return "Just Do It: "+fortuneService.getFortune();
+		return "null";
+	}
+
+	//add an init method
+	public void doMyStartupStuff(){
+		System.out.println("TrackCoach : inside method doMyStartupStuff");
+	}
+
+
+	//add a destroy method
+	public void doMyCleanupStuffYoYo(){
+		System.out.println("TrackCoach : inside method doMyCleanupStuffYoYo");
 	}
 
 }
