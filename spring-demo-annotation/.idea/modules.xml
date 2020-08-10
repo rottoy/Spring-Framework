@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-framework.iml" filepath="$PROJECT_DIR$/.idea/Spring-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo-annotation.iml" filepath="$PROJECT_DIR$/spring-demo-annotation.iml" />
     </modules>
   </component>
 </project>
