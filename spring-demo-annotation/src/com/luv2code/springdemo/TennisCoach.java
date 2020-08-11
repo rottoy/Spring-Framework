@@ -5,9 +5,11 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.*;
+
 //@Component("thatSillyClass")
 @Component
-@Scope("prototype")
+//@Scope("prototype")
 public class TennisCoach implements Coach{
 
     @Autowired
@@ -33,5 +35,17 @@ public class TennisCoach implements Coach{
     @Override
     public String getDailyFortune() {
         return fortuneService.getFortune();
+    }
+
+    //define my init method
+    @PostConstruct
+    public void doMyStartupStuff(){
+        System.out.println(">>TeniisCoach : inside doMyStartupStuff()");
+    }
+
+    //define my destroy method
+    @PreDestroy
+    public void doMyCleanupStuff(){
+        System.out.println(">>TeniisCoach : inside doMyCleanupStuff()");
     }
 }
