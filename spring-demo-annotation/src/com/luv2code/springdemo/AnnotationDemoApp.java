@@ -3,7 +3,7 @@ package com.luv2code.springdemo;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class AnnotationDemoApp {
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
         //read spring configuration file
         ClassPathXmlApplicationContext context=
@@ -15,7 +15,7 @@ public class AnnotationDemoApp {
         //call a method on the bean
         System.out.println(theCoach.getDailyWorkout());
 
-
+        System.out.println(theCoach.getDailyFortune());
         //context close
         context.close();
     }
