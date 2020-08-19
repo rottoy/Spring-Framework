@@ -9,6 +9,7 @@
 Hello World of Spring!
 <br><br>
 Student name : ${param.studentName}
-
+Student Message name : ${message}
+54y54y543454
 </body>
 </html>
