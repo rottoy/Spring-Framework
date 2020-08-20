@@ -27,15 +27,17 @@ public class StudentController {
 
         theModel.addAttribute("theCountryOptions",countryOptions);
 
+        //Call Getter Method of Student in JSP
         return "student-form";
     }
 
+    //Call Setter Method of Student in Controller
     @RequestMapping("/processForm")
     public String processForm(@ModelAttribute ("student") Student theStudent){
         //log the input data
         System.out.println(theStudent.getFirstName()+" "+theStudent.getLastName());
 
-
+        //Call Getter Method of Student in JSP
         return "student-confirmation";
     }
 }

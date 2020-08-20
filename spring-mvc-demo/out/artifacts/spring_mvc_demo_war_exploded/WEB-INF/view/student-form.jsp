@@ -14,7 +14,7 @@
 <body>
     <form:form action="processForm" modelAttribute="student">
 
-    First name : <form:input path="firstName" />
+        First name : <form:input path="firstName" />
         <br><br>
         Last name : <form:input path="lastName"/>
         <br><br>
@@ -24,7 +24,18 @@
 
            <form:options items="${theCountryOptions}" />
         </form:select>
+        <br><br>
+        Favorite Language :
 
+        <form:radiobuttons path="favoriteLanguage" items="${student.favoriteLanguageOptions}"/>
+
+        <br><br>
+
+        Operating Systems :
+        Linux <form:checkbox path="operatingSystems" value="Linux"/>
+        Mac OS <form:checkbox path="operatingSystems" value="Mac OS"/>
+        MS Windows <form:checkbox path="operatingSystems" value="MS Window"/>
+        Linux <form:checkbox path="operatingSystems" value="Linux"/>
         <input type="submit" value="submit" />
 
     </form:form>
