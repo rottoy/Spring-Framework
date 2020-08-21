@@ -31,6 +31,12 @@
 	<!-- Add properties option -->
 	<util:properties id="countryOptions" location="WEB-INF/countries.properties"/>
 
+	<bean id="messageSource"
+		class="org.springframework.context.support.ResourceBundleMessageSource"
+	>
+		<property name="basename" value="resources.messages"/>
+	</bean>
+
 </beans>
 
 

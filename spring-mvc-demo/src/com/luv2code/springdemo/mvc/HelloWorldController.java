@@ -28,7 +28,7 @@ public class HelloWorldController {
     @RequestMapping("/processFormVersionTwo")
     public String letsShoutDude(HttpServletRequest request, Model model){
 
-        //read the reqeust parameter from the HTML form
+        //read the request parameter from the HTML form
         String theName = request.getParameter("studentName");
 
         //convert data to all caps
