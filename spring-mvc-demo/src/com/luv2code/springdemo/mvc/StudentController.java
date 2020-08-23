@@ -24,7 +24,6 @@ public class StudentController {
         theModel.addAttribute("student",theStudent);
 
         //add the country options to the model
-
         theModel.addAttribute("theCountryOptions",countryOptions);
 
         //Call Getter Method of Student in JSP
