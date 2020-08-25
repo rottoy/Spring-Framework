@@ -32,6 +32,9 @@ public class InstructorDetail {
 
     //Instructor 클래스의 instructorDetail 이란 변수를 찾아감
     //Cascading 을 명시해야 연관된 테이블에 연산이 적용됨
+    //detail이 주체가 아님을 명시 = mappedBy
+    //detail이 Instructor 클래스의 외래키 참조 변수가 instructorDetail임을 명시
+
     @OneToOne(mappedBy = "instructorDetail",cascade = {
             CascadeType.DETACH,CascadeType.MERGE,
             CascadeType.PERSIST,CascadeType.REFRESH
