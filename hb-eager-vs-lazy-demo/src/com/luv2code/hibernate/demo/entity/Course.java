@@ -29,8 +29,7 @@ public class Course {
             CascadeType.DETACH,CascadeType.MERGE,
             CascadeType.PERSIST, CascadeType.REFRESH,
     })
-
-    // actual name of SQL Table course id
+    //actual name of SQL Table course id
     @JoinColumn(name = "instructor_id")
     private Instructor instructor;
 
