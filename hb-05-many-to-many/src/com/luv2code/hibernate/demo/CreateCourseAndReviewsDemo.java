@@ -1,0 +1,57 @@
+package com.luv2code.hibernate.demo;
+
+import com.luv2code.hibernate.demo.entity.Course;
+import com.luv2code.hibernate.demo.entity.Instructor;
+import com.luv2code.hibernate.demo.entity.InstructorDetail;
+import com.luv2code.hibernate.demo.entity.Review;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class CreateCourseAndReviewsDemo {
+    public static void main(String[] args) {
+
+        //create session factory
+        SessionFactory factory = new Configuration()
+                .configure("hibernate.cfg.xml")
+                .addAnnotatedClass(Instructor.class)
+                .addAnnotatedClass(InstructorDetail.class)
+                .addAnnotatedClass(Course.class)
+                .addAnnotatedClass(Review.class)
+                .buildSessionFactory();
+
+        //create session
+        Session session = factory.getCurrentSession();
+
+        //use the session object to save Java Object
+        try{
+
+            //Create
+            //start a transaction
+            session.beginTransaction();
+
+            //create a course
+            Course tempCourse = new Course("Science");
+
+            //add some reviews
+            tempCourse.addReview(new Review("It is great math!"));
+            tempCourse.addReview(new Review("awful terrible math!"));
+            tempCourse.addReview(new Review("It is EZ"));
+
+            //save the course ... and leverage the cascade all
+            System.out.println("Saving the course");
+            System.out.println(tempCourse);
+            System.out.println(tempCourse.getReviews());
+            session.save(tempCourse);
+
+            //commit the transaction
+            session.getTransaction().commit();
+        }
+        finally {
+            //add clean up code
+            session.close();
+            factory.close();
+        }
+
+    }
+}
