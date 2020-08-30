@@ -32,7 +32,7 @@ public class Student {
             name = "course_student",
             joinColumns = @JoinColumn(name = "student_id"),
             //joins with course_id in course_student table and id in course table
-            inverseJoinColumns = @JoinColumn(name = "courses_id")
+            inverseJoinColumns = @JoinColumn(name = "course_id")
             // joins with student_id in course_student table and id in student table
     )
     private List<Course> courses;
