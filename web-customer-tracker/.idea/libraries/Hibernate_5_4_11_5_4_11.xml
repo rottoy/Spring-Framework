@@ -40,6 +40,9 @@
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-5.2.3.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/stax-ex-1.8.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/txw2-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/hibernate-c3p0-5.4.21.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mchange-commons-java-0.2.19.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
