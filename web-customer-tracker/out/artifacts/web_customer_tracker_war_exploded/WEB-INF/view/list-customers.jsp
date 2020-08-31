@@ -28,7 +28,7 @@
 
     <div id = "container">
         <div id="content">
-            
+
 
             <!-- put new button: Add Customer -->
                 <input type="button" value="Add Customer"
