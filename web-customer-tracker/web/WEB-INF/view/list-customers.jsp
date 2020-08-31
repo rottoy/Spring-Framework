@@ -10,6 +10,13 @@
 <html>
 <head>
     <title>List Customers</title>
+
+    <!-- reference our style sheet -->
+    <!--상대 경로가 아닌 절대 경로-->
+    <link type="text/css"
+          rel="stylesheet"
+          href="${pageContext.request.contextPath}/myResources/css/style.css" />
+
 </head>
 <body>
 
@@ -21,7 +28,7 @@
 
     <div id = "container">
         <div id="content">
-
+            ${pageContext.request.contextPath}
             <!-- add out html table here -->
 
             <table>
