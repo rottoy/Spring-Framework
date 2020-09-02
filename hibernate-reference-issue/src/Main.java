@@ -10,40 +10,31 @@ import javax.persistence.metamodel.EntityType;
 import java.util.Map;
 
 public class Main {
-    private static final SessionFactory ourSessionFactory;
 
-    static {
+
+    public static void main(String[] args) {
+        SessionFactory ourSessionFactory = new Configuration().
+                configure().
+                addAnnotatedClass(Book.class).
+                addAnnotatedClass(BookStore.class).
+                buildSessionFactory();
+        Session session = ourSessionFactory.getCurrentSession();
         try {
-            Configuration configuration = new Configuration();
-            configuration.configure();
+            session.beginTransaction();
 
-            ourSessionFactory = configuration.
-                    addAnnotatedClass(Book.class).
-                    addAnnotatedClass(BookStore.class).
-                    buildSessionFactory();
-        } catch (Throwable ex) {
-            throw new ExceptionInInitializerError(ex);
-        }
-    }
-
-    public static Session getSession() throws HibernateException {
-        return ourSessionFactory.openSession();
-    }
-
-    public static void main(final String[] args) throws Exception {
-        final Session session = getSession();
-        try {
             System.out.println("querying all the managed entities...");
             BookStore bookStore=new BookStore();
             bookStore.setName("시애틀 책방");
             session.save(bookStore);
 
             Book book = new Book();
+            session.save(book);
             book.setTitle("JPA 좀 공부하면서 쓰세요.");
 
             bookStore.add(book);
 
-            session.save(book);
+
+            session.getTransaction().commit();
         } finally {
             session.close();
         }

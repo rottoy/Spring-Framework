@@ -17,6 +17,7 @@ public class BookStore{
     private Set<Book> books = new HashSet<>();
 
     public void add(Book book){
+        book.setBookStore(this);
         this.books.add(book);
     }
 
