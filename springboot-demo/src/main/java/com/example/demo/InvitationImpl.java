@@ -28,4 +28,17 @@ public class InvitationImpl implements InvitationDAO {
 
         return theQuery.getSingleResult();
     }
+
+    //제안을 수락하고, 알림을 꺼야 하므로 processed=false
+    @Override
+    public void approveRequest(Invitation invitation) {
+        invitation.setApproved(true);
+        invitation.setProcessed(false);
+    }
+
+    @Override
+    public void rejectRequest(Invitation invitation) {
+        invitation.setProcessed(false);
+    }
+
 }
