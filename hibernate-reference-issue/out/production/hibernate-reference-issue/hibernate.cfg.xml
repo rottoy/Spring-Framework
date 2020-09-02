@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<hibernate-configuration>
+    <session-factory>
+
+        <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://localhost:3306/hb-one-to-many-reference-issue?useSSL=false&amp;serverTimezone=UTC</property>
+        <property name="connection.username">springstudent</property>
+        <property name="connection.password">springstudent</property>
+
+        <!-- JDBC connection pool settings ... using built-in test pool -->
+        <property name="connection.pool_size">1</property>
+
+        <!-- Select our SQL dialect -->
+        <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
+
+        <!-- Echo the SQL to stdout -->
+        <property name="show_sql">true</property>
+
+        <property name="hibernate.hbm2ddl.auto">create</property>
+        <!-- Set the current session context -->
+        <property name="current_session_context_class">thread</property>
+        <mapping class="Book"/>     <!--  add this -->
+        <mapping class="BookStore"/>     <!--  add this -->
+
+    </session-factory>
+</hibernate-configuration>
