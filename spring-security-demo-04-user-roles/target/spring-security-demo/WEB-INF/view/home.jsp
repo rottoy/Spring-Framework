@@ -17,6 +17,20 @@
     <p>Welcome to the luv2code company home page!</p>
 
     <hr>
+
+    <!--Add a link to point to /leaders ... this is for mananger -->
+    <p>
+        <a href = "${pageContext.request.contextPath}/leaders">LeaderShip Meeting</a>
+        (Only for Manager peeps)
+    </p>
+
+    <!--Add a link to point to /systems ... this is for Admin -->
+    <p>
+
+        <a href = "${pageContext.request.contextPath}/systems">Systems Meeting</a>
+        (Only for Manager peeps)
+    </p>
+
     <!--display user name and role -->
     <p>
         User : <security:authentication property="principal.username" />
