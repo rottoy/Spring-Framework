@@ -10,7 +10,7 @@
 	<name>spring-security-demo</name>
 
 	<properties>
-		<springframework.version>5.0.2.RELEASE</springframework.version>
+		<springframework.version>5.2.8.RELEASE</springframework.version>
 		<springsecurity.version>5.0.0.RELEASE</springsecurity.version>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
@@ -77,6 +77,13 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-core</artifactId>
+			<version>5.0.0.RELEASE</version>
+		</dependency>
+
+
 
 	</dependencies>
 

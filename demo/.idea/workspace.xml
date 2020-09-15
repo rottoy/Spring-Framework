@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f047c2ee-6e7c-4d60-81f6-3379bd3a8602" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-demo/src/main/java/com/junhyeok/demo/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Spring-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Spring-framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/CreateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/DeleteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/entity/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/jdbc/TestJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/com/luv2code/jdbc/TestJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-02-one-to-one-bi/out/production/hibernate-tutorial/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/CreateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/DeleteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/DeleteInsturctorDetailDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/DeleteInsturctorDetailDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/GetInsturctorDetailDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/GetInsturctorDetailDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/entity/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/jdbc/TestJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/com/luv2code/jdbc/TestJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-02-one-to-one-bi/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/CreateCoursesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/CreateCoursesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/CreateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/CreateInstructorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/CreateInstructorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/DeleteCoursesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/DeleteCoursesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/DeleteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/DeleteInsturctorDetailDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/DeleteInsturctorDetailDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/GetCoursesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/GetCoursesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/GetInsturctorDetailDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/GetInsturctorDetailDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/entity/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/jdbc/TestJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/com/luv2code/jdbc/TestJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-03-one-to-many/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/CreateCourseAndReviewsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/CreateCourseAndReviewsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/CreateCoursesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/CreateCoursesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/CreateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/CreateInstructorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/CreateInstructorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/DeleteCourseAndReviewsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/DeleteCourseAndReviewsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/DeleteCoursesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/DeleteCoursesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/DeleteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/DeleteInsturctorDetailDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/DeleteInsturctorDetailDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/GetCourseAndReviewsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/GetCourseAndReviewsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/GetCoursesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/GetCoursesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/GetInsturctorDetailDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/GetInsturctorDetailDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/entity/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/entity/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/entity/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/jdbc/TestJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/com/luv2code/jdbc/TestJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/out/production/hibernate-tutorial/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/AddCoursesForMaryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/AddCoursesForMaryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/CreateCourseAndReviewsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/CreateCourseAndReviewsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/CreateCourseAndStudentsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/CreateCourseAndStudentsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/DeleteMaryStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/DeleteMaryStudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/DeleteScienceCourseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/DeleteScienceCourseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/GetCoursesForMaryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/GetCoursesForMaryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/jdbc/TestJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/com/luv2code/jdbc/TestJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-05-many-to-many/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/CreateCoursesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/CreateCoursesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/CreateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/CreateInstructorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/CreateInstructorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/DeleteCoursesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/DeleteCoursesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/DeleteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/DeleteInsturctorDetailDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/DeleteInsturctorDetailDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/EagerLazyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/EagerLazyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/FetchJoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/FetchJoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/GetInsturctorDetailDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/GetInsturctorDetailDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/entity/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/jdbc/TestJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/com/luv2code/jdbc/TestJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-practice/out/production/hibernate-practice/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-practice/out/production/hibernate-practice/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-practice/src/com/luv2code/hibernate/practice/CRUDStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-practice/src/com/luv2code/hibernate/practice/CRUDStudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-practice/src/com/luv2code/jdbc/jdbcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-practice/src/com/luv2code/jdbc/jdbcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-practice/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-practice/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/out/production/hibernate-tutorial/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/out/production/hibernate-tutorial/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/CreateStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/CreateStudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/DeleteStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/DeleteStudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/PrimaryKeyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/PrimaryKeyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/QueryStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/QueryStudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/ReadStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/ReadStudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/UpdateStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/UpdateStudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/jdbc/TestJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/com/luv2code/jdbc/TestJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/out/production/spring-demo-annotation/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/out/production/spring-demo-annotation/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/AnnotationBeanScopeDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/AnnotationBeanScopeDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/AnnotationDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/AnnotationDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/HappyFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/HappyFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/JavaConfigDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/JavaConfigDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/MySecondCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/MySecondCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/MySecondConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/MySecondConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/RESTFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/RESTFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/RandomFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/RandomFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/SadFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/SadFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/SportConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/SportConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/SwimCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/SwimCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/SwimJavaConfigDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/SwimJavaConfigDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-annotation/src/com/luv2code/springdemo/TennisCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/out/production/test/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/out/production/test/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/out/production/test/beanLifeCycle-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/out/production/test/beanLifeCycle-applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/out/production/test/beanScope-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/out/production/test/beanScope-applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/out/production/test/myApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/out/production/test/myApplicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/out/production/test/sport.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/out/production/test/sport.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/beanLifeCycle-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/beanLifeCycle-applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/beanScope-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/beanScope-applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/BeanScopeDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/BeanScopeDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/CricketCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/HappyFortuneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/HappyFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/HelloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/HelloSpringApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/SetterDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/SetterDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/myApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/myApplicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo-one/src/sport.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo-one/src/sport.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/spring-mvc-demo-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/view/customer-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/view/customer-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/view/helloworld-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/view/helloworld.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/view/helloworld.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/view/student-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/out/artifacts/spring_mvc_demo_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/SillyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/SillyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/src/com/luv2code/springdemo/mvc/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/spring-mvc-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/spring-mvc-demo-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/view/customer-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/view/customer-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/view/helloworld-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/view/helloworld.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/view/helloworld.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/view/student-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/out/artifacts/spring_practice_mvc_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/out/artifacts/spring_practice_mvc_war_exploded/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/out/artifacts/spring_practice_mvc_war_exploded/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/out/artifacts/spring_practice_mvc_war_exploded/WEB-INF/view/main-menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/out/artifacts/spring_practice_mvc_war_exploded/WEB-INF/view/student-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/out/artifacts/spring_practice_mvc_war_exploded/WEB-INF/view/student-confirmation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/out/artifacts/spring_practice_mvc_war_exploded/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/out/artifacts/spring_practice_mvc_war_exploded/WEB-INF/view/student-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/src/com/luv2code/springdemo/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/src/com/luv2code/springdemo/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/src/com/luv2code/springdemo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/src/com/luv2code/springdemo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/src/com/luv2code/springdemo/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/src/com/luv2code/springdemo/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/src/com/luv2code/springdemo/StudentMVCController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/src/com/luv2code/springdemo/StudentMVCController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/web/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/web/WEB-INF/view/main-menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/web/WEB-INF/view/student-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/web/WEB-INF/view/student-confirmation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-practice-mvc/web/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-practice-mvc/web/WEB-INF/view/student-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-practice/out/artifacts/web_customer_practice_war_exploded/WEB-INF/spring-mvc-crud-practice-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-practice/out/artifacts/web_customer_practice_war_exploded/WEB-INF/spring-mvc-crud-practice-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-practice/out/artifacts/web_customer_practice_war_exploded/WEB-INF/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-practice/out/artifacts/web_customer_practice_war_exploded/WEB-INF/view/list-customers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-practice/src/com/junhyeok/lim/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-practice/src/com/junhyeok/lim/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-practice/src/com/junhyeok/lim/TestDbServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-practice/src/com/junhyeok/lim/TestDbServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-practice/src/com/junhyeok/lim/dao/CustomerDAOlmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-practice/src/com/junhyeok/lim/dao/CustomerDAOlmpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-practice/src/com/junhyeok/lim/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-practice/src/com/junhyeok/lim/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-practice/web/WEB-INF/spring-mvc-crud-practice-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-practice/web/WEB-INF/spring-mvc-crud-practice-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-practice/web/WEB-INF/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-practice/web/WEB-INF/view/list-customers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/classes/TestDbServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/classes/TestDbServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/classes/com/luv2code/springdemo/entity/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/classes/com/luv2code/springdemo/entity/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/spring-mvc-crud-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/view/customer-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/view/customer-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/view/list-customers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/resources/css/add-customer-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/resources/css/add-customer-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/artifacts/web_customer_tracker_war_exploded/resources/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/production/web-customer-tracker/TestDbServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/production/web-customer-tracker/TestDbServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/out/production/web-customer-tracker/com/luv2code/springdemo/entity/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/out/production/web-customer-tracker/com/luv2code/springdemo/entity/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/src/TestDbServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/src/TestDbServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/src/com/luv2code/springdemo/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/src/com/luv2code/springdemo/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/src/com/luv2code/springdemo/dao/CustomerDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/src/com/luv2code/springdemo/dao/CustomerDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/src/com/luv2code/springdemo/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/src/com/luv2code/springdemo/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/src/com/luv2code/springdemo/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/src/com/luv2code/springdemo/service/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/web/WEB-INF/view/customer-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/web/WEB-INF/view/customer-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/web/WEB-INF/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/web/WEB-INF/view/list-customers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/web/resources/css/add-customer-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/web/resources/css/add-customer-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-customer-tracker/web/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web-customer-tracker/web/resources/css/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gu87RofSRgTgkbUXHsZt7YI8Ja" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PlzworkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.PlzworkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f047c2ee-6e7c-4d60-81f6-3379bd3a8602" name="Default Changelist" comment="" />
+      <created>1598952951830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598952951830</updated>
+      <workItem from="1598952952834" duration="657000" />
+      <workItem from="1599065847001" duration="323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom" timestamp="1598953544709">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1598953544709" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center" timestamp="1598953544708">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1598953544708" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left" timestamp="1598953544708">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1598953544708" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right" timestamp="1598953544709">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1598953544709" />
+    <state width="1750" height="277" key="GridCell.Tab.1.bottom" timestamp="1598953544710">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1598953544710" />
+    <state width="1750" height="277" key="GridCell.Tab.1.center" timestamp="1598953544709">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1598953544709" />
+    <state width="1750" height="277" key="GridCell.Tab.1.left" timestamp="1598953544709">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1598953544709" />
+    <state width="1750" height="277" key="GridCell.Tab.1.right" timestamp="1598953544709">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1598953544709" />
+  </component>
+</project>
