@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring-rest-demo">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_rest_demo</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/../spring-practice-mvc/out/artifacts/spring_practice_mvc_war_exploded/WEB-INF" />
+    </root>
+  </artifact>
+</component>
